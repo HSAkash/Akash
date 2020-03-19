@@ -1,2 +1,2 @@
-ngrok_ip = localhost
-ngrok_port = 2222
+ngrok_ip = 0.tcp.ngrok.io
+ngrok_port = 11003
