@@ -1,2 +1,2 @@
-ngrok_ip = ngrokip.ng
+ngrok_ip = localhost
 ngrok_port = 2222
