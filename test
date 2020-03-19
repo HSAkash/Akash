@@ -1,2 +1,2 @@
-ngrok_ip = localhost
+ngrok_ip = akash
 ngrok_port = 2222
